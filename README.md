@@ -39,15 +39,6 @@ A personal portfolio site built with Next.js and Framer Motion, using a scroll-d
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=spal45&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spal45&layout=compact&theme=dracula&hide_border=true" alt="Top languages" height="165"/>
-</div>
-
----
-
 ### 📬 Let's connect
 
 <div align="center">
