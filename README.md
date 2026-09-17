@@ -15,8 +15,6 @@ I build things end to end — frontend, backend, and the infrastructure that tie
 💬 **[ChatApp](https://github.com/spal45/Chat_App)**
 A real-time messaging platform built as a microservices system — Next.js frontend, three independent backend services (auth, chat, mail), Socket.IO, MongoDB, Redis, RabbitMQ, and a one-command Docker Compose setup.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-frontend--production--35dc.up.railway.app-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-production-35dc.up.railway.app/login)
-
 🏦 **[Digital Wallet Ledger](https://github.com/spal45/Digital_Wallet_Ledger)**
 NestJS + PostgreSQL backend built the way real financial systems are: an append-only double-entry ledger where balances are *derived, never stored*, idempotent transfers, and row-level locking verified correct under real concurrent load. Tested, containerized, CI'd, and [live in production](https://digitalwalletledger-production.up.railway.app/docs).
 
